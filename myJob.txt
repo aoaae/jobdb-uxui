@@ -1,9 +1,14 @@
 UX/UI Designer
+นักออกแบบ UX/UI
+
 Bangkok Insurance Public Company Limited
+บมจ กรุงเพทประกันภัย
 
 Key Responsibilities
+ความรับผิดชอบที่สำคัญ
 
 > Translate concepts into wire frames and mock ups that lead to intuitive user experiences. Facilitate client’s product visions by researching, conceiving, wire framing, sketching, prototyping, and mocking up user experiences for digital products.
+> แปลแนวคิดเป็นให้เป็น wire frames และ mock ups ที่นำไปสู่ประสบการณ์ผู้ใช้ที่ใช้งานง่าย อำนวยความสะดวกให้กับวิสัยทัศน์ผลิตภัณฑ์ของลูกค้าโดยการวิจัย ตั้งครรภ์ การวางโครงลวด การร่างภาพ การสร้างต้นแบบ และการเยาะเย้ยประสบการณ์ของผู้ใช้สำหรับผลิตภัณฑ์ดิจิทัล
 
 > Working with client and branding teams to complete the information architecture and interface development processes for new website projects including site map, wire frame layout and template development.
 
